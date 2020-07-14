@@ -22,5 +22,11 @@ Desenvolvedor a mais de 16 anos, entusiasta por novas tecnologias e com muita se
 ![enter image description here](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.NET&logoColor=white)
 
 
+
+
+
+
+
+
 > Fique idoso, mas não fique velho 
 > -- Mário Sérgio Cortela

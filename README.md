@@ -1,3 +1,4 @@
+
 # Dieggo Carrilho
 
 Desenvolvedor a mais de 16 anos, entusiasta por novas tecnologias e com muita sede de aprendizado
@@ -19,3 +20,7 @@ Desenvolvedor a mais de 16 anos, entusiasta por novas tecnologias e com muita se
 ![enter image description here](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white) 
 ![enter image description here](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=C-Sharp&logoColor=white) 
 ![enter image description here](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.NET&logoColor=white)
+
+
+> Fique idoso, mas não fique velho 
+> -- Mário Sérgio Cortela

@@ -1,4 +1,5 @@
 
+
 # Dieggo Carrilho
 
 Desenvolvedor a mais de 16 anos, entusiasta por novas tecnologias e com muita sede de aprendizado
@@ -24,9 +25,11 @@ Desenvolvedor a mais de 16 anos, entusiasta por novas tecnologias e com muita se
 
 
 
-
-
-
+.
+.
+.
+.
+    
 
 > Fique idoso, mas não fique velho 
 > -- Mário Sérgio Cortela

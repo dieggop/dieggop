@@ -2,7 +2,7 @@
 
 # Dieggo Carrilho
 
-Desenvolvedor a mais de 16 anos, entusiasta por novas tecnologias e com muita sede de aprendizado
+Desenvolvedor a mais de 20 anos, entusiasta por novas tecnologias e com muita sede de aprendizado
 
 ![enter image description here](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/dieggop)
 ![enter image description here](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dieggocarrilho/)
